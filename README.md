@@ -17,3 +17,10 @@ Creating a ProPresenter slideshow is the same process regardless of whether you 
 1. Select the __...__ button next to the "File or Program to Run" textfield. Navigate to where the __change-slide.bat__ file is and select it. If installed properly, this should be located at C:\Users\{home dir}\Documents\ProPresenter\change-slide.bat
 1. In "Command Line Parameters", simply type the slide number as it appears in ProPresenter.
 1. Save the cue and test it--everything should work.*
+
+# If it doesn't work...
+1. Make sure both computers are connected to the same network
+1. Try running setup.bat again. See [installation instructions](INSTALL.md) for help.
+
+### Support Options
+Still can't get it to work? I can help. Email Andrew Wilson at [andrewdwilson214@gmail.com](mailto:andrewdwilson214@gmail.com)
