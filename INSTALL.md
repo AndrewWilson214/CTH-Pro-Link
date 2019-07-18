@@ -22,5 +22,5 @@ This program has been tested in an environment in which *Computer P* is a comput
 
 # *Computer S* Installation
 1. Download __Node.JS__ from [here](https://nodejs.org/en/download/). It is recommended you use the __Windows Installer__ for a quick and easy installation.
-1. Download this repository. It is recommended you store it in the *Documents folder* as a folder named *ProPresenter* for consistency.
+1. Download this repository from [here](https://github.com/AndrewWilson214/CTH-Pro-Link/archive/master.zip). It is recommended you store it in the *Documents folder* as a folder named *ProPresenter* for consistency.
 1. In the folder you downloaded from this repository, there is a file named "setup.bat" Double-click this file, and when prompted enter the *Network Name, Port, and Password* that you configured on *Computer P*
