@@ -12,13 +12,13 @@ This program has been tested in an environment in which *Computer P* is a comput
 # *Computer P* Installation
 1. Open ProPresenter
 1. Open ProPresenter's settings window. __(Command + Comma on MacOS)__
-1. Select the "Network" tab
+1. Select the __Network__ tab
 1. Mark the following checkboxes as __checked__
    1. Enable Network
    1. Enable ProPresenter Remote
    1. Controller
 1. Set a password in the controller field.
-1. Write down the "Network Name", "Port", and "Password"--you'll need these to set-up *Computer S*
+1. Write down the "*Network Name*, *Port*, and *Password*--you'll need these to set-up *Computer S*
 
 # *Computer S* Installation
 1. Download __Node.JS__ from [here](https://nodejs.org/en/download/). It is recommended you use the __Windows Installer__ for a quick and easy installation.
