@@ -2,7 +2,7 @@
 Controls ProPresenter effortlessly through SCS 11 or any application that can run a Windows Batch file, allowing you to control your music and your slides all in the same place.
 
 # Installation
-Unless a computer system change has occurred recently, the necessary programs should already be installed and you may skip this section. However, if you have reason to believe this program is not already installed, [click here]()
+Unless a computer system change has occurred recently, the necessary programs should already be installed and you may skip this section. However, if you have reason to believe this program is not already installed, [click here](INSTALL.md).
 
 >On Windows, you can check if it is installed by seeing if there is a folder named __ProPresenter__ in the __Documents__ folder.
 
