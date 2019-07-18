@@ -16,7 +16,7 @@ Creating a ProPresenter slideshow is the same process regardless of whether you 
 1. In the toolbar, select "Cue". A dropdown will appear, where you will select "Run External Program"
 1. Select the __...__ button next to the "File or Program to Run" textfield. Navigate to where the __change-slide.bat__ file is and select it. If installed properly, this should be located at C:\Users\{home dir}\Documents\ProPresenter\change-slide.bat
 1. In "Command Line Parameters", simply type the slide number as it appears in ProPresenter.
-1. Save the cue and test it--everything should work.*
+1. Save the cue and test it--everything should work.
 
 # If it doesn't work...
 1. Make sure both computers are connected to the same network
