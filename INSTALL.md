@@ -11,7 +11,7 @@ This program has been tested in an environment in which *Computer P* is a comput
 
 # *Computer P* Installation
 1. Open ProPresenter
-1. Open ProPresenter's settings window. __(Command + Comma on MacOS)
+1. Open ProPresenter's settings window. __(Command + Comma on MacOS)__
 1. Select the "Network" tab
 1. Mark the following checkboxes as __checked__
    1. Enable Network
