@@ -18,7 +18,7 @@ This program has been tested in an environment in which *Computer P* is a comput
    1. Enable ProPresenter Remote
    1. Controller
 1. Set a password in the controller field.
-1. Write down the "*Network Name*, *Port*, and *Password*--you'll need these to set-up *Computer S*
+1. Write down the *Network Name*, *Port*, and *Password*--you'll need these to set-up *Computer S*
 
 # *Computer S* Installation
 1. Download __Node.JS__ from [here](https://nodejs.org/en/download/). It is recommended you use the __Windows Installer__ for a quick and easy installation.
