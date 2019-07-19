@@ -21,6 +21,8 @@ This program has been tested in an environment in which *Computer P* is a comput
 1. Write down the *Network Name*, *Port*, and *Password*--you'll need these to set-up *Computer S*
 
 # *Computer S* Installation
-1. Download __Node.JS__ from [here](https://nodejs.org/en/download/). It is recommended you use the __Windows Installer__ for a quick and easy installation.
-1. Download this repository from [here](https://github.com/AndrewWilson214/CTH-Pro-Link/archive/master.zip). It is recommended you store it in the *Documents folder* as a folder named *ProPresenter* for consistency.
-1. In the folder you downloaded from this repository, there is a file named "setup.bat" Double-click this file, and when prompted enter the *Network Name, Port, and Password* that you configured on *Computer P*
+1. Download __ProLink.exe__ from [here](). 
+1. Once downloaded, double click __ProLink.exe__ to open it.
+1. In the dialog that opens, enter the ProPresenter *Network Name*, *Port*, and *Password* when prompted.
+
+After running these steps, set-up is complete and you can now use *Computer S* to control *Computer P*. See the [README.md](README.md) for instructions on setting up the control cues.
