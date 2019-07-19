@@ -21,7 +21,7 @@ This program has been tested in an environment in which *Computer P* is a comput
 1. Write down the *Network Name*, *Port*, and *Password*--you'll need these to set-up *Computer S*
 
 # *Computer S* Installation
-1. Download __ProLink.exe__ from [here](). 
+1. Download __ProLink.exe__ from [here](https://github.com/AndrewWilson214/CTH-Pro-Link/releases/latest/download/ProLink.exe). 
 1. Once downloaded, double click __ProLink.exe__ to open it.
 1. In the dialog that opens, enter the ProPresenter *Network Name*, *Port*, and *Password* when prompted.
 
