@@ -1,4 +1,4 @@
-# CTH-Pro-Link
+# CTH-ProLink
 Controls ProPresenter effortlessly through SCS 11 or any application that can run a Windows Batch file, allowing you to control your music and your slides all in the same place.
 
 # Installation
