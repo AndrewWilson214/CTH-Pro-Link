@@ -20,7 +20,8 @@ Creating a ProPresenter slideshow is the same process regardless of whether you 
 
 # If it doesn't work...
 1. Make sure both computers are connected to the same network
-1. Try running setup.bat again. See [installation instructions](INSTALL.md) for help.
+1. Try running the set-up procedure again by double clicking on the __ProLink.exe__ file. See [INSTALL.md](INSTALL.md) for more information.
+1. Try reinstalling __ProLink.exe__, and deleting the old one. __Make sure to put the new version in the same directory as the old version so the file path is the same. Otherwise, SCS will have the old path--which no longer exists--and old cues will be broken.__
 
 ### Support Options
 Still can't get it to work? I can help. Email Andrew Wilson at [andrewdwilson214@gmail.com](mailto:andrewdwilson214@gmail.com)
