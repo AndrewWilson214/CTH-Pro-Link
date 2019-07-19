@@ -4,7 +4,7 @@ Controls ProPresenter effortlessly through SCS 11 or any application that can ru
 # Installation
 Unless a computer system change has occurred recently, the necessary programs should already be installed and you may skip this section. However, if you have reason to believe this program is not already installed, [click here](INSTALL.md).
 
->On Windows, you can check if it is installed by seeing if there is a folder named __ProPresenter__ in the __Documents__ folder.
+>On Windows, you can check if it is installed by seeing if there is a folder named __ProPresenter__ in the __Desktop__ folder.
 
 >On MacOS, you can check if it is installed by seeing if __ProPresenter Remote__ is configured in the ProPresenter settings.
 
@@ -14,7 +14,7 @@ Creating a ProPresenter slideshow is the same process regardless of whether you 
 # Creating Projector Cues in SCS 11
 1. Open your SCS 11 show file and navigate to the SCS 11 "Editor" window.
 1. In the toolbar, select "Cue". A dropdown will appear, where you will select "Run External Program"
-1. Select the __...__ button next to the "File or Program to Run" textfield. Navigate to where the __change-slide.bat__ file is and select it. If installed properly, this should be located at C:\Users\{home dir}\Documents\ProPresenter\change-slide.bat
+1. Select the __...__ button next to the "File or Program to Run" textfield. Navigate to where the __ProLink.exe__ file is and select it. If installed properly, this should be located at C:\Users\{home dir}\Desktop\ProLink.exe
 1. In "Command Line Parameters", simply type the slide number as it appears in ProPresenter.
 1. Save the cue and test it--everything should work.
 
