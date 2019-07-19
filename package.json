@@ -1,0 +1,16 @@
+{
+  "name": "cth-pro-link",
+  "version": "1.0.0",
+  "description": "Control ProPresenter with SCS 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Wilson",
+  "license": "Apache-2.0",
+  "bin": "bin.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "nodejs-websocket": "^1.7.2"
+  }
+}
